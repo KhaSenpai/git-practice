@@ -1,0 +1,3 @@
+nano info.txt
+y
+
